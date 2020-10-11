@@ -119,7 +119,7 @@
                 </div>
                 <div class="card-footer text-center">
                     <a class="btn btn-primary"
-                        href="Booking.php?category=Luxury&img=https://i.ytimg.com/vi/09pDca1mITM/maxresdefault.jpg&isFromHome=False"
+                        href="Booking.php?category=Luxury&img=https://i.ytimg.com/vi/09pDca1mITM/maxresdefault.jpg&local=False"
                         role="button">Book Now</a>
                 </div>
             </div>

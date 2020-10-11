@@ -54,7 +54,7 @@ $out = date('d-m-yy', strtotime($in. ' + ' .$durasi. 'days'));
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link text-dark"
-                        href="Booking.php?category=Standard&img=https://hotelcstockholm.com/wp-content/uploads/2018/03/Copy-of-DSC03257-1.jpg&isFromHome=True">Booking</a>
+                        href="Booking.php?category=Standard&img=https://hotelcstockholm.com/wp-content/uploads/2018/03/Copy-of-DSC03257-1.jpg&local=True">Booking</a>
                 </li>
             </ul>
         </div>
