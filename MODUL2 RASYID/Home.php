@@ -71,7 +71,7 @@ crossorigin="anonymous"></script>
                 </div>
                 <div class="card-footer text-center">
                     <a class="btn btn-primary"
-                    href="Bookiing.php?category=Standard&img=https://hotelcstockholm.com/wp-content/uploads/2018/03/Copy-of-DSC03257-1.jpg&local=False"
+                    href="Booking.php?category=Standard&img=https://hotelcstockholm.com/wp-content/uploads/2018/03/Copy-of-DSC03257-1.jpg&local=False"
                     role="button">Book Now</a>
                 </div>
             </div>
@@ -95,7 +95,7 @@ crossorigin="anonymous"></script>
                 </div>
                 <div class="card-footer text-center">
                     <a class="btn btn-primary"
-                    href="Bookiing.php?category=Superior&img=https://www.sensesunsetseminyak.com/uploads/galeriahabitaciones/Superior-Room--Hotel-SenseSunsetSeminyak.jpg&local=False"
+                    href="Booking.php?category=Superior&img=https://www.sensesunsetseminyak.com/uploads/galeriahabitaciones/Superior-Room--Hotel-SenseSunsetSeminyak.jpg&local=False"
                     role="button">Book Now</a>
                 </div>
             </div>
@@ -119,7 +119,7 @@ crossorigin="anonymous"></script>
                 </div>
                 <div class="card-footer text-center">
                     <a class="btn btn-primary"
-                    href="Bookiing.php?category=Luxury&img=https://i.ytimg.com/vi/09pDca1mITM/maxresdefault.jpg&local=False"
+                    href="Booking.php?category=Luxury&img=https://i.ytimg.com/vi/09pDca1mITM/maxresdefault.jpg&local=False"
                     role="button">Book Now
                 </a>
             </div>
