@@ -52,7 +52,7 @@ $local = $_GET['local'];
     <div class="class container mt-5 mb-5">
         <div class="row">
             <div class="col-5 mr-5 ml-5">
-                <form action="my_booking.php" method="get">
+                <from action="my_booking.php" method="get">
                     <div class="form-group">
                         <label for="exampleInputName">Nama <?php echo $category?></label>
                         <input type="text" class="form-control" id="nama" aria-describedby="NameHelp" name="nama"
@@ -106,7 +106,7 @@ $local = $_GET['local'];
                         <input type="name" class="form-control" id="exampleInputPhone" aria-describedby="PhoneHelp"
                             name="noHP">
                     </div>
-                    <button type="submit" class="btn btn-primary" style="width: 100%;" name="submit">Book</button>
+                    <button type="" class="btn btn-primary" style="width: 100%;" name="submit">Book</button>
 
                 </form>
             </div>

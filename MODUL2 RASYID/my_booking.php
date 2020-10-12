@@ -3,7 +3,7 @@
 
 <?php
 $random = (rand(100000,999999));
-$nama = $_GET['nama'];
+$nama = $_GET['name'];
 $durasi = $_GET['durasi'];
 
 $kamar = $_GET['kamar'];
