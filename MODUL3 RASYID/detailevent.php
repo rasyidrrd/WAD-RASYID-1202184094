@@ -54,10 +54,13 @@ $event = $select->fetch_assoc();
                 <div class="row">
                     <div class="col col-6">
                         <p class="font-weight-bold">Informasi Event</p>
-                        <p><?= $event["tanggal"] ?></p>
+                        <p><i class="fa fa-calendar" style="color: orange"></i>
+                            <?= $event["tanggal"] ?></p>
 
-                        <p><?= $event["tempat"] ?></p>
-                        <p><?= $event["mulai"] ?> - <?= $event["berakhir"] ?></p>
+                        <p><i class="fa fa-map-marker" style="color: orange"></i>
+                            <?= $event["tempat"] ?></p>
+                        <p><i class="fa fa-clock-o" style="color: orange"></i>
+                            <?= $event["mulai"] ?> - <?= $event["berakhir"] ?></p>
                         <p><strong>Kategori : </strong><?= $event["kategori"] ?></p>
                         <p class="font-weight-bold">Rp. <?= $event["harga"] ?></p>
                     </div>
