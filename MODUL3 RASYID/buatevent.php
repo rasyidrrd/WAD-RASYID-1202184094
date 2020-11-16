@@ -139,7 +139,7 @@
               <a href="./home.php" class="mr-1">
                 <button class="btn btn-danger" style="float: right" name="cancel">Cancel</button>
               </a>
-              <button type="submit" class="btn btn-primary ml-1" style="float: right" style="margin-right: 10px;" name="submit">Submit</button>
+              <button type="submit" class="btn btn-primary mr-3" style="float: right" style="margin-right: 10px;" name="submit">Submit</button>
             </div>
           </div>
 

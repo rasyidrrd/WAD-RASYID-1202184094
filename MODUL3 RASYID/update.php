@@ -3,7 +3,7 @@
 include("config.php");
 
 
-$id = $_GET['id'];
+$id = $_POST['id'];
 $name = $_POST['name'];
 $deskripsi = $_POST['deskripsi'];
 $kategori = $_POST['kategori'];
@@ -32,7 +32,7 @@ if ($gambar) {
             $gambar = $rand . '_' . $gambar;
             move_uploaded_file($_FILES['gambar']['tmp_name'], 'gambar/' . $gambar);
 
-            $query = "UPDATE event SET 
+            $query = "UPDATE event_table SET 
 
             name='$name', 
             deskripsi='$deskripsi',
@@ -53,7 +53,7 @@ if ($gambar) {
         }
     }
 } else {
-    $query = "UPDATE event SET 
+    $query = "UPDATE event_table SET 
 
     name='$name', 
     deskripsi='$deskripsi',

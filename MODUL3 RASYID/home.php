@@ -60,7 +60,7 @@
                     </div>
                     <div class="card-footer text-right">
                         <a href="./detailevent.php?id=<?= $select['id'] ?>">
-                            <button class="btn btn-primary">Detail</button></a>
+                            <button class="btn btn-block btn-primary">Detail</button></a>
                     </div>
                 </div>
             </div>
