@@ -37,7 +37,7 @@
 
   <div class="container">
     
-    <form action="create.php" method="POST" enctype="multipart/form-data">
+    <form action="creates.php" method="POST" enctype="multipart/form-data">
       <div class="row">
         <div class="col col-6">
           <div class="card h-100">
