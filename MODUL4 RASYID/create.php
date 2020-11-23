@@ -1,7 +1,7 @@
 <?php 
 require_once("config.php");
 
-if(isset($_POST['register'])){
+if(isset($_GET['register'])){
 
     // filter data yang diinputkan
     $nama = filter_input(INPUT_POST, 'nama', FILTER_SANITIZE_STRING);
